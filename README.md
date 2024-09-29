@@ -23,7 +23,7 @@ export GITHUB_PAT=YOUR_GITHUB_PAT
 Sync list of GitHub repositories
 
 ```bash
-gitwave sync --input /path/to/csv/file --directory /path/to/work/dir/
+GitWave sync --input /path/to/csv/file --directory /path/to/work/dir/
 ```
 
 ## Input file CSV format
